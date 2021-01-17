@@ -2,8 +2,6 @@ name: Ubuntu Cloud Machine
 version: 1.0
 formatVersion: 1
 inputs: {}
-name: Ubuntu VM Cloud
-version: 1
 resources:
   Cloud_Machine_1:
     type: Cloud.Machine
